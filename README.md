@@ -11,7 +11,7 @@ Update your `composer.json` file to include this package as a dependency
 Laravel 5
 
 ```json
-"davibennun/laravel-push-notification": "dev-laravel5"
+"someline/laravel-push-notification": "v1.0.*"
 ```
 Laravel 4.*
 ```json
